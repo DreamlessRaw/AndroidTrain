@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">示例</string>
+    <string name="no_param">无参返回</string>
+    <string name="param">有参返回</string>
+    <string name="main_activity">主界面</string>
+    <string name="jump_activity">跳转界面</string>
+    <string name="listview">ListView</string>
+    <string name="write">写入</string>
+    <string name="read">读取</string>
+    <string name="sharedpreferences">SharedPreferences</string>
+    <string name="sqlite3">SQLite3</string>
+</resources>
