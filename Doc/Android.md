@@ -6,21 +6,21 @@
 
 ## 创建项目
 
-![](C:\Users\Asura\AndroidStudioProjects\MyApplication\Doc\创建项目-01.png)
+![](..\Doc\创建项目-01.png)
 
-<img src="C:\Users\Asura\AndroidStudioProjects\MyApplication\Doc\创建项目-02.png"  />
+<img src="..\Doc\创建项目-02.png"  />
 
-![](C:\Users\Asura\AndroidStudioProjects\MyApplication\Doc\创建项目-03.png)
+![](..\Doc\创建项目-03.png)
 
 ## 结构预览
 
-![](C:\Users\Asura\AndroidStudioProjects\MyApplication\Doc\目录结构.png)
+![](..\Doc\目录结构.png)
 
 ## 生命周期
 
-![](C:\Users\Asura\AndroidStudioProjects\MyApplication\Doc\生命周期.png)
+![](..\Doc\生命周期.png)
 
-![](C:\Users\Asura\AndroidStudioProjects\MyApplication\Doc\生命周期-02.png)
+![](..\Doc\生命周期-02.png)
 
 ## SharedPreferences(共享存储)
 
